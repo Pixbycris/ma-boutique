@@ -8,3 +8,8 @@ footer{
 .ma-section {
   min-height: 500px;
 }
+.code {
+  font-size:33px;
+  color: darkgreen;
+  background-color: brown;
+}
