@@ -47,7 +47,9 @@
     <section class="container ma-section">
       <h1 class="text-center mt-4 display-4">Bienvenue</h1>
     </section>
-
+<section class="container">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita placeat eaque sapiente alias similique possimus. Saepe, incidunt. Culpa perferendis, neque nam molestiae adipisci voluptatibus libero, tenetur eius cum debitis quos! Placeat autem, alias, cumque ab facilis optio corporis error provident quam, beatae eius! Similique libero quas earum nobis dolorum repellendus sequi, ex esse voluptas eligendi accusamus excepturi dolore, soluta minima deserunt iste, accusantium laborum et quis atque odio sunt laudantium. Non cum accusamus voluptatum commodi, ipsum unde, aliquid est alias suscipit nulla amet. Veritatis maxime ex ea, eos aspernatur dolor. Temporibus recusandae, aperiam exercitationem culpa vitae rem mollitia reprehenderit nihil esse deserunt, est aliquid minima ex ea corrupti sunt commodi nostrum, sed veniam eaque nemo accusantium nobis. Quae totam at perspiciatis dolorem excepturi accusantium animi repudiandae inventore minus maiores est molestiae facilis, ratione incidunt nesciunt eos aut quidem doloremque. Odit minima sint asperiores unde veritatis culpa, sapiente saepe commodi accusantium animi eum cumque aperiam blanditiis dicta et sunt! Accusamus cum dolorem atque. Nihil reiciendis minima soluta magnam consequuntur mollitia facere odit voluptates aspernatur eveniet fugiat nemo eaque ipsum non quod, optio, tempore at architecto, neque deleniti. Inventore impedit, cum autem deleniti officia illum iusto aliquid quas, reiciendis tempore eveniet iste.</p>
+</section>
     <footer>
       &copy; 2018 Cris Canal - Ma Boutique
     </footer>
