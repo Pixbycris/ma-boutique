@@ -1,0 +1,10 @@
+footer{
+  background-color: brown;
+  text-align:center;
+  height: 88px;
+  color : white;
+  padding: 20px;
+}
+.ma-section {
+  min-height: 500px;
+}
